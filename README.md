@@ -1,7 +1,6 @@
 # Cześć! Jestem drDocent 👋
 
 ## 🚀 O mnie
-* Pasjonat programowania.
 * **Ulubiony język: C++** 🚀
 * Skupiam się na tworzeniu wydajnych i optymalnych rozwiązań.
 
@@ -24,7 +23,3 @@ Statystyki mojej aktywności i najczęściej używane języki.
 
 
 ---
-
-### 📧 Kontakt
-* **LinkedIn:** [Twój Link do LinkedIn]
-* **Portfolio:** [Twój Link do Portfolio]
